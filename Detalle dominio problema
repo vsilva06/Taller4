@@ -1,0 +1,15 @@
+El subconjunto a utilizar sera el de afectados, el cual contendra:
+
+- Rango de edad de los afectados
+    * Tercera edad
+    * Adultos
+    * Jovens
+    * Niños
+- Sexo
+- Gravedad del afectados
+    * Muerte
+    * Critico
+    * Medio
+    * Bajo
+    * En espera (podria estar desaparecido)
+ 
