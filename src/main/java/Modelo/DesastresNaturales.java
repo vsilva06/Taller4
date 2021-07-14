@@ -20,4 +20,13 @@ public class DesastresNaturales {
         this.afectados = afectados;
         this.economico = economico;
     }
+    public void detalleDesastre(){
+
+    }
+    public void listaDesaparecidos(){
+
+    }
+
+    public void actualizarListaDesaparecidos(){}
+
 }

@@ -10,4 +10,5 @@ public class Afectados{
         this.añoDesastre = añoDesastre;
         this.tipoDesastre = tipoDesastre;
     }
+
 }
