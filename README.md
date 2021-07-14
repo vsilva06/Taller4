@@ -1,6 +1,5 @@
 # Taller4
 
-# Taller4
 
 Antecedentes:
 
